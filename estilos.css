@@ -30,6 +30,17 @@ img {
     border-radius: 10px;
     }
 
+.galeria {
+        display: flex;
+        gap: 12px;
+
+    }
+
+.galeria img {
+        width: 150px;
+        height: auto;
+    }
+
 .dungeon {
     width: 500px; 
     height: auto; 
