@@ -22,8 +22,9 @@ body{
     padding: 20px;
     font-size: 17px;
     line-height: 1.8; 
-    color: aliceblue;
+    color: black;
     }
+    
 .cine {
     max-width: 800px;
     margin: 0px auto;
@@ -34,7 +35,15 @@ body{
     color: aliceblue;
     }
 
-
+    .stup {
+    max-width: 800px;
+    margin: 0px auto;
+    background-color: #90CAF9;
+    padding: 20px;
+    font-size: 17px;
+    line-height: 1.8; 
+    color: black;
+    }
 
 .imga {
     width: 750px; 
